@@ -1,0 +1,10 @@
+Coach number 1 is  null
+Coach number 2 is occupied by VVV
+Coach number 3 is  null
+Coach number 4 is  null
+Coach number 5 is  null
+Coach number 6 is occupied by AAA
+Coach number 7 is  null
+Coach number 8 is  null
+Coach number 9 is  null
+Coach number 10 is  null
